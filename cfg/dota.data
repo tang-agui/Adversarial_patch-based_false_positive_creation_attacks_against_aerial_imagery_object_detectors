@@ -1,0 +1,8 @@
+classes=15
+train  = /mnt/share1/tangguijian/DOTA_YOLOv2/train.txt
+valid  = /mnt/share1/tangguijian/DOTA_YOLOv3_patch_AT/PR_curve/obj_loss_p224_scale_8_wo_sigmoid/val.txt
+names = /mnt/share1/tangguijian/DOTA_YOLOv3_patch_AT/data/dota.names
+backup = /mnt/share1/tangguijian/DOTA_YOLOv2/dota-backup_try2/
+#   results = results/  #   用于存放测试结果，可以自己定义
+#   /mnt/share1/tangguijian/DOTA_YOLOv2/dota-backup_try2/yolov3-dota_60000.weights
+#   valid  = /mnt/share1/tangguijian/DOTA_YOLOv3_patch_AT/PR_curve/clean/val.txt
